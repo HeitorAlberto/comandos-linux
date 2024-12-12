@@ -1,0 +1,6 @@
+ls - lista as pastas do local.
+
+cd "xxx" - entra na pasta especificada.
+
+cd .. - retorna para o diretório anterior.
+
