@@ -1,0 +1,11 @@
+ATUALIZAÇÃO DOS REPOSITÓRIOS
+sudo apt-get update 
+
+INSTALAÇÃO DE UM PROGRAMA 
+sudo apt-get install nomedoprograma
+
+REMOÇÃO DE UM PROGRAMA
+sudo apt-get purge nomedoprograma
+
+ATUALIZAÇÃO DO SISTEMA (PODE CAUSAR PROBLEMA A APLICATIVOS JÁ INSTALADOS)
+sudo apt-get dist-upgrade
