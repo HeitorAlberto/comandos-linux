@@ -9,3 +9,6 @@ sudo apt-get purge nomedoprograma
 
 ATUALIZAÇÃO DO SISTEMA (PODE CAUSAR PROBLEMA A APLICATIVOS JÁ INSTALADOS)
 sudo apt-get dist-upgrade
+
+INSTALAR UM ARQUIVO DEB
+sudo apt-get remove nomedopacote.deb
